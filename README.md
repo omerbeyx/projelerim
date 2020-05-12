@@ -1,0 +1,2 @@
+# projelerim
+algoritma ödevleri
